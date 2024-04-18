@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "105371146481",
+    "project_id": "renthomeee",
+    "storage_bucket": "renthomeee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105371146481:android:51bef6fc15bd26777b3150",
+        "android_client_info": {
+          "package_name": "com.nitha.renthome.renthome"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8_sSvrfGRPYj0GwCfgYPmMEg4AMx4-O0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
